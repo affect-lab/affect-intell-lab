@@ -6,15 +6,16 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Welcome the Affective Intelligence Lab !"
+# title: "Welcome the Affective Intelligence Lab !"
 subtitle: ""
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 advanced:
   css_style:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Affective Intelligence Lab is a part of the Department of Computer Engineering at Inha University. 
+Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
