@@ -17,5 +17,4 @@ advanced:
   css_class:
 ---
 
-The Affective Intelligence Lab is a part of the Department of Computer Engineering at Inha University. 
-Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Affective Intelligence Lab is a part of the Department of Computer Engineering at Inha University. Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
